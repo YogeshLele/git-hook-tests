@@ -1,0 +1,11 @@
+Content Type Stats and 3.0 Traffic Clerk APIs
+
+Modified APIs and CLIs to use new Traffic Clerk Stats APIs
+Modified tests
+YouTube stats cover googlevideo.com and youtube.com (video and audio)
+Update the traffic stats REST API and CLI to summarize data categorized by content type(video, audio, text etc)
+
+ReviewID: 162558
+CC: dev-qa-resistance
+Reviewed-By: kyagna, msokolnicki
+VerificationTag: 0284d2e0413d1110fe98d89c91f4407191e229f7
